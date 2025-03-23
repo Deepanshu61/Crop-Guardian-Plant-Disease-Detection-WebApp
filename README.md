@@ -29,3 +29,37 @@ CropGuardian is an **AI-powered plant disease detection system** that helps farm
 2️⃣ **AI Model Analysis** – The deep learning model processes the image and detects diseases.  
 3️⃣ **Get Diagnosis & Treatment** – The system provides disease details and recommended treatments.  
 4️⃣ **Consult an Expert (Optional)** – Connect with an agricultural specialist for personalized advice.  
+
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/CropGuardian.git
+cd CropGuardian
+```
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Dependencies List
+Ensure you have the following dependencies installed:
+```bash
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+opencv-python
+streamlit
+```
+
+### 3️⃣ Run the Application
+```bash
+python app.py
+```
+
+The application will be accessible at **http://localhost:5000**.
