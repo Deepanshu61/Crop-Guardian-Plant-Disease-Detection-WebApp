@@ -63,3 +63,11 @@ python app.py
 ```
 
 The application will be accessible at **http://localhost:5000**.
+
+---
+
+## 📂 Dataset
+CropGuardian is trained using the **New Plant Diseases Dataset** from Kaggle. You can access the dataset here:  
+🔗 [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
+---
